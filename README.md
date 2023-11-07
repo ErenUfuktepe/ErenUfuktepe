@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=ErenUfuktepe&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ErenUfuktepe&theme=prussian&hide_border=false" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenUfuktepe&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
+</p>
+
 <!--
 **ErenUfuktepe/ErenUfuktepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
