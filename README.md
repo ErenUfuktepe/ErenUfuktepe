@@ -3,11 +3,10 @@
 <p>I am a software engineer with over five years of experience in developing complex software for the healthcare and finance industries. My educational background includes a Bachelor's degree in Computer Engineering and a Master's degree in Data Science and Analytics.</p>
 
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ErenUfuktepe&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ErenUfuktepe&theme=prussian&hide_border=false" />
-</p>
+<img  src="https://github-readme-stats.vercel.app/api?username=ErenUfuktepe&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
 
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ErenUfuktepe&theme=prussian&hide_border=false" />
 
 
 <h4>Programming Languages:</h4> 
