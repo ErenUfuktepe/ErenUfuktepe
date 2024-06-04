@@ -1,4 +1,28 @@
-### Hi there 👋
+<h2 align="center"> Hi 👋, I'm Eren </h2>
+
+<p>I am a software engineer with over five years of experience in developing complex software for the healthcare and finance industries. My educational background includes a Bachelor's degree in Computer Engineering and a Master's degree in Data Science and Analytics.</p>
+
+<h4>Programming Languages:</h4>
+
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,java,python,c,cpp,cs,r)](https://github.com/ErenUfuktepe/ErenUfuktepe/edit/main/README.md)
+
+<h4>Databases:</h4>
+
+[![Programming Languages](https://skillicons.dev/icons?i=mysql,postgresql)]([https://skillicons.dev](https://github.com/ErenUfuktepe/ErenUfuktepe/edit/main/README.md))
+
+<h4>Cloud:</h4>
+
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]([https://skillicons.dev](https://github.com/ErenUfuktepe/ErenUfuktepe/edit/main/README.md))
+
+<h4>Frameworks:</h4>
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,react)](https://skillicons.dev)
+
+
+
+<h4>Contact:</h4>
+
+[![Contact Languages](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 <p float="center">
