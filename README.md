@@ -4,25 +4,27 @@
 
 <h4>Programming Languages:</h4>
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,java,python,c,cpp,cs,r)](https://github.com/ErenUfuktepe/ErenUfuktepe/edit/main/README.md)
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,java,python,c,cpp,cs,r&perline=3)](https://github.com/ErenUfuktepe/)
+
+<div>
 
 <h4>Databases:</h4>
 
-[![Programming Languages](https://skillicons.dev/icons?i=mysql,postgresql)]([https://skillicons.dev](https://github.com/ErenUfuktepe/ErenUfuktepe/edit/main/README.md))
+[![Programming Languages](https://skillicons.dev/icons?i=mysql,postgresql&perline=3)](https://github.com/ErenUfuktepe/)
 
 <h4>Cloud:</h4>
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)]([https://skillicons.dev](https://github.com/ErenUfuktepe/ErenUfuktepe/edit/main/README.md))
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp&perline=3)](https://github.com/ErenUfuktepe/)
 
 <h4>Frameworks:</h4>
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,react)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,react&perline=3)](https://github.com/ErenUfuktepe/)
 
 
 
 <h4>Contact:</h4>
 
-[![Contact Languages](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Contact Languages](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eren-ufuktepe-a20081145/)
 
 
 <p float="center">
